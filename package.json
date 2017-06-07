@@ -1,0 +1,37 @@
+{
+    "author": "Cacao",
+    "dependencies": {},
+    "keywords": [],
+    "name": "kkoface",
+    "pebble": {
+        "displayName": "KkoFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/Pendule Ornamental.ttf",
+                    "name": "FONT_TIME_46",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/Hack-Regular.ttf",
+                    "name": "FONT_HACK_16",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "3a88dfda-d4df-4d60-b65a-b9e7a4fc3586",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "0.4.0"
+}
